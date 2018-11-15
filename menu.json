@@ -1,0 +1,18 @@
+{
+   "menu_items" : [
+	   {"href" : "/main/", "title" : "Главная"},
+	   {"href" : "/catalog/", "title" : "Каталог", "submenu" : [
+			{"href" : "/catalog1/", "title" : "Одежда" },
+			{"href" : "/catalog1/", "title" : "Обувь" }
+			]
+		},
+	   {"href" : "/Action/", "title" : "Акции"},
+	   {"href" : "/lk/", "title" : "Личный кабинет"},
+	   {"href" : "/About", "title" : "О нас", "submenu" : [
+			{"href" : "/hist/", "title" : "История" },
+			{"href" : "/cont/", "title" : "Контакты" },
+			{"href" : "/hr/", "title" : "Вакансии" }
+			]
+		}
+   ]
+}

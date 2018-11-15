@@ -1,0 +1,8 @@
+{
+   "image" : [
+	   {"href" : "img/img1.jpg", "alt" : "pic1"},
+	   {"href" : "img/img2.jpg", "alt" : "pic2"},
+	   {"href" : "img/img3.jpg", "alt" : "pic3"},
+	   {"href" : "img/img5.jpg", "alt" : "pic5"}
+   ]
+}
